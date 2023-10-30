@@ -1,6 +1,8 @@
 ---
 title: "Module 1 assignment"
-format: html
+format:
+  html:
+    embed-resources: true
 editor: visual
 ---
 
